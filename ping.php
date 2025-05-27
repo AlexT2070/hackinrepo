@@ -9,7 +9,7 @@ if(isset($_POST['host'])){
 <!DOCTYPE html>
   <header>
         <h1>Bienvenido a la pagina web de Tacos Tommy's</h1>
-        <nav>
+        <>
             <a href="index.php">Inicio</a>
             <a href="login.php">Login</a>
             <a href="register.php">Registro</a>
@@ -17,6 +17,7 @@ if(isset($_POST['host'])){
             <a href="search.php">Buscar</a>
             <a href="ping.php">Herramienta de Red</a>
             <a href="dashboard.php">Administrar usuario</a>
+
         </nav>
     </header>
 <html lang="en">
@@ -49,5 +50,5 @@ if(isset($_POST['host'])){
     </div>
     <?php endif; ?>
 </div>
-    </body>
+    </body> <!-- Comentario de prueba-->
 </html>>
