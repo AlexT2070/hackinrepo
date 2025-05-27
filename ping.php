@@ -51,4 +51,5 @@ if(isset($_POST['host'])){
     <?php endif; ?>
 </div>
     </body> <!-- Comentario de prueba-->
+     <!-- Comentario de prueba para ver si es cierto que se despliega-->
 </html>>
